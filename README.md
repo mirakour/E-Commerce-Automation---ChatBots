@@ -65,4 +65,4 @@ Email: mirandakourt@gmail.com
 Website: https://www.kourtneymiranda.com
 
 ## 📄 License
-This project is for portfolio and demonstration purposes only. Not affiliated with TikTok, OpenAI, or any e-commerce platform.
+This project is for portfolio and demonstration purposes only. Not affiliated with other Developers, OpenAI, or any e-commerce platform.
