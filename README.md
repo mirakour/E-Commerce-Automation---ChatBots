@@ -4,7 +4,7 @@ A portfolio-ready React application showcasing intelligent chatbot solutions for
 
 ## 🌐 Live Demo
 
-# Netlify - https://www.netlify.com
+# Netlify - ecommerceautomation.netlify.app
 
 
 ---
